@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | **21104410077** |
+| Nama Lengkap | **ARNI NAZIRA** |
 | Kelas | TI-4B |
