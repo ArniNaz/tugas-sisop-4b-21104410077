@@ -15,4 +15,4 @@ Fitur:
 |Ini fitur|Ini detail|
 
 ### SCREENSHOOT PROGRAM
-![Aplikasi Gue]()
+![Program Kasir Sederhana]()
